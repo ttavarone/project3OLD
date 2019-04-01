@@ -1,0 +1,1 @@
+This project is an infamous one in the Siena College Computer Science department.  The class, CSIS-225 Object Oriented Progamming (OOP) is taught by Dr. Darren Lim.  The goal of this project was to familiarize us with Java's graphical components and creating an application.<br><br>The game is based on the board game Ticket To Ride, the Germany version.

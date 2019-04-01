@@ -1,0 +1,31 @@
+form {
+	margin: 2%;
+	width: 45%;
+	padding: 3%;
+}
+
+input {
+	margin: 3%;
+}
+
+input#sign {
+	width: 50%;
+}
+
+label {
+	font-family: "Raleway", sans-serif;
+}
+
+p.genericparagraph {
+	padding-bottom: 3%;
+	border-bottom: 1px solid gray;
+	width: 80%;
+}
+
+h3 {
+	margin-left: 25%;
+}
+
+button {
+	margin: 3%;
+}

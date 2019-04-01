@@ -1,0 +1,1 @@
+Lazer Maze is another board game that we emulated using Java in CSIS-225.  It is not as robust or advanced as Ticket To Ride, but it uses the same concepts and techniques.
