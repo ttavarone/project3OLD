@@ -174,7 +174,7 @@ function make_navbar() {
             <li class="nav-item">
               <a class="nav-link" href="#">Home</a>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item  justify-content-end">
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Account Settings</a>
                 <div class="dropdown-menu">
                   <a class="dropdown-item" href="#">Login</a>
