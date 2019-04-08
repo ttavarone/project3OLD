@@ -1,6 +1,6 @@
 <?php
 	
-require('functions.php');
+require('functions_database.php');
 
 $table_name = "th26tava_users";
 

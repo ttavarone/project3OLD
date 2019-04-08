@@ -35,7 +35,7 @@ function create_table($sql, $table_name) {
 	else 
 		$content = "Table <b>$table_name</b> was NOT created successfully";
 	
-	make_basic_page("Table $table_name", $content);		
+	make_page("Table $table_name", $content);		
 }
 
 
